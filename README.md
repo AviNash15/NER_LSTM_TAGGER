@@ -25,6 +25,7 @@ Validation Data
      MISC       0.66      0.74      0.70       919
 
 micro avg       0.51      0.75      0.61      5883
+
 macro avg       0.53      0.75      0.61      5883
 
 Test Data:
@@ -36,6 +37,7 @@ Test Data:
       PER       0.49      0.52      0.50      1578
 
 micro avg       0.42      0.61      0.50      5592
+
 macro avg       0.48      0.61      0.52      5592
 
 5.
