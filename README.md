@@ -1,6 +1,6 @@
 # NER_LSTM_TAGGER 
 
-Code -> ner_tagging.ipynb
+Code -> ner_tagging.ipynb -> I have used basic modelling not so agressive approach.
 
 1. 
 Firstly i parsed the data to extract words and it's corresponding NER. After that, i got unique word tokens and unique tags present in the dataset. After, generated dictionary of unique words to numerical representation where tokens is key and number is value. Similarly i did for tags. Once this done, converted the sentences into sequences of fixed length. Similarly converted each sentences tag into corresponding sequences.
